@@ -4,10 +4,14 @@ I've built software for very different environments - from industrial HMI system
 
 That range shapes how I approach engineering: understanding how the pieces fit together, solving practical problems, and building software that holds up beyond the initial implementation.
 
+*I think about it, then code it.*
+
+---
+
 ### Technologies
 
 **Professional**  
-TypeScript / JavaScript · React · Node.js / Express · MongoDB · Python / PySide2 · C++ / Qt / QML
+```TypeScript / JavaScript · React · Node.js / Express · MongoDB · Python / PySide2 · C++ / Qt / QML```
 
 **University**  
-Java · C · R
+```Java · C · R```
