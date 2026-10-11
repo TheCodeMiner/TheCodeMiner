@@ -4,7 +4,7 @@ I've built software for very different environments - from industrial HMI system
 
 That range shapes how I approach engineering: understanding how the pieces fit together, solving practical problems, and building software that holds up beyond the initial implementation.
 
-*I think about it, then code it.*
+*I design it. I refine it. I build it.*
 
 Website: [samer.cx](https://samer.cx)
 
@@ -15,6 +15,9 @@ Website: [samer.cx](https://samer.cx)
 
 ### Technologies
 
-**Professional**<br>TypeScript / JavaScript · React · Node.js / Express · MongoDB · Python / PySide2 · C++ / Qt / QML
+**Professional**
+
+- **Web & backend:** TypeScript / JavaScript · React · Node.js / Express · MongoDB
+- **Desktop & HMI:** Python / PySide2 · C++ / Qt / QML
 
 **University**<br>Java · C · R
