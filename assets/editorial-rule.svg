@@ -1,5 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="96" height="4" viewBox="0 0 96 4">
-  <rect width="96" height="4" fill="#121615"/>
-  <rect x="1" y="1" width="78" height="2" fill="#b1987b"/>
-  <rect x="80" y="1" width="15" height="2" fill="#a7eda0"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="2" viewBox="0 0 320 2">
+  <defs>
+    <linearGradient id="border" x1="0" x2="1">
+      <stop offset="0" stop-color="#2e3130" stop-opacity="0"/>
+      <stop offset="0.15" stop-color="#2e3130"/>
+      <stop offset="0.85" stop-color="#2e3130"/>
+      <stop offset="1" stop-color="#2e3130" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="editorial" x1="0" x2="1">
+      <stop offset="0.05" stop-color="#b1987b" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#b1987b"/>
+      <stop offset="0.95" stop-color="#b1987b" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="1" fill="url(#border)"/>
+  <rect width="320" height="1" fill="url(#editorial)"/>
 </svg>
