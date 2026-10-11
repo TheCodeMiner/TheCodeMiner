@@ -6,7 +6,7 @@ That range shapes how I approach engineering: understanding how the pieces fit t
 
 *I design it. I refine it. I build it.*
 
-Website: [samer.cx](https://samer.cx)
+Website: **[samer.cx](https://samer.cx)**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/editorial-rule.svg">
@@ -19,6 +19,9 @@ Website: [samer.cx](https://samer.cx)
 
 - **Web & backend:** TypeScript / JavaScript · React · Node.js / Express · MongoDB
 - **Desktop & HMI:** Python / PySide2 · C++ / Qt / QML
+- **Testing:** Vitest · React Testing Library · Playwright
 
 **University**
-- Java · C/C++ · R
+
+- **Programming:** Java · C/C++ · R
+- **Databases & services:** SQL (Oracle Database) · Firebase (basic)
