@@ -1,4 +1,4 @@
-## <img src="assets/samer-mark.png" alt="" width="32" height="32" align="absmiddle"> Samer Mobasery
+### **<img src="assets/samer-mark.png" alt="" width="32" height="32" align="absmiddle"> Samer Mobasery**
 
 I've built software for very different environments - from industrial HMI systems and internal desktop tools to production web applications and backend services.
 
@@ -20,4 +20,5 @@ Website: [samer.cx](https://samer.cx)
 - **Web & backend:** TypeScript / JavaScript · React · Node.js / Express · MongoDB
 - **Desktop & HMI:** Python / PySide2 · C++ / Qt / QML
 
-**University**<br>Java · C · R
+**University**
+- Java · C/C++ · R
