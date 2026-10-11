@@ -1,12 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="40" viewBox="0 0 840 40">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="24" viewBox="0 0 840 24">
   <defs>
-    <linearGradient id="rule" gradientUnits="userSpaceOnUse" x1="0" x2="840">
-      <stop stop-color="#80674d"/>
-      <stop offset="0.55" stop-color="#d2d3cc"/>
-      <stop offset="1" stop-color="#d2d3cc" stop-opacity="0.25"/>
+    <linearGradient id="bronze" gradientUnits="userSpaceOnUse" x1="0" x2="840">
+      <stop stop-color="#80674d" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#80674d"/>
+      <stop offset="1" stop-color="#80674d" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <path d="M20 20H840" stroke="url(#rule)"/>
-  <circle cx="6" cy="20" r="4" fill="none" stroke="#496d45" stroke-width="1.5"/>
-  <path d="M20 20H116" stroke="#80674d"/>
+  <path d="M0 12H840" fill="none" stroke="url(#bronze)" vector-effect="non-scaling-stroke"/>
 </svg>
