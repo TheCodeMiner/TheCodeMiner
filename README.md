@@ -6,12 +6,14 @@ That range shapes how I approach engineering: understanding how the pieces fit t
 
 *I think about it, then code it.*
 
----
+![](assets/editorial-rule.svg)
 
-### Technologies
+## Technologies
 
-**Professional**  
-```TypeScript / JavaScript · React · Node.js / Express · MongoDB · Python / PySide2 · C++ / Qt / QML```
+**Professional**
 
-**University**  
-```Java · C · R```
+TypeScript / JavaScript · React · Node.js / Express · MongoDB · Python / PySide2 · C++ / Qt / QML
+
+**University**
+
+Java · C · R
