@@ -1,17 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="2" viewBox="0 0 320 2">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="40" viewBox="0 0 840 40">
   <defs>
-    <linearGradient id="border" x1="0" x2="1">
-      <stop offset="0" stop-color="#2e3130" stop-opacity="0"/>
-      <stop offset="0.15" stop-color="#2e3130"/>
-      <stop offset="0.85" stop-color="#2e3130"/>
-      <stop offset="1" stop-color="#2e3130" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="editorial" x1="0" x2="1">
-      <stop offset="0.05" stop-color="#b1987b" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#b1987b"/>
-      <stop offset="0.95" stop-color="#b1987b" stop-opacity="0"/>
+    <linearGradient id="rule" gradientUnits="userSpaceOnUse" x1="0" x2="840">
+      <stop stop-color="#b1987b"/>
+      <stop offset="0.55" stop-color="#2e3130"/>
+      <stop offset="1" stop-color="#2e3130" stop-opacity="0.25"/>
     </linearGradient>
   </defs>
-  <rect width="320" height="1" fill="url(#border)"/>
-  <rect width="320" height="1" fill="url(#editorial)"/>
+  <path d="M20 20H840" stroke="url(#rule)"/>
+  <circle cx="6" cy="20" r="4" fill="none" stroke="#a7eda0" stroke-width="1.5"/>
+  <path d="M20 20H116" stroke="#b1987b"/>
 </svg>

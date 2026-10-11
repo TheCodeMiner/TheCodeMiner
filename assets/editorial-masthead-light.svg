@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="128" viewBox="0 0 840 128">
+  <defs>
+    <linearGradient id="ambient" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#f6f4ef"/>
+      <stop offset="0.6" stop-color="#edece6"/>
+      <stop offset="1" stop-color="#e8e2d8"/>
+    </linearGradient>
+    <pattern id="stripes" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M1 0V4" stroke="#496d45" stroke-width="1.5"/>
+    </pattern>
+    <linearGradient id="rule" gradientUnits="userSpaceOnUse" x1="0" x2="840">
+      <stop stop-color="#80674d"/>
+      <stop offset="1" stop-color="#d2d3cc"/>
+    </linearGradient>
+  </defs>
+  <rect width="840" height="128" rx="8" fill="url(#ambient)"/>
+  <rect x="0.5" y="0.5" width="839" height="127" rx="7.5" fill="none" stroke="#d2d3cc"/>
+  <g transform="translate(32 21)">
+    <path d="M25 14 40 29 25 44 10 29Z M65 54 80 69 65 84 50 69Z" fill="#496d45" opacity="0.8"/>
+    <path d="M45 0 60 15 45 30 30 15Z M45 34 62 51 45 68 28 51Z M45 70 60 85 45 100 30 85Z" fill="url(#stripes)"/>
+  </g>
+  <path d="M134 32H808 M134 96H808" stroke="#d2d3cc"/>
+  <path d="M134 64H474" stroke="url(#rule)"/>
+  <path d="M560 32V96 M624 32V96 M688 32V96 M752 32V96" stroke="#d2d3cc"/>
+  <path d="M560 64H808" stroke="#80674d" opacity="0.38"/>
+  <circle cx="134" cy="64" r="4" fill="#f6f4ef" stroke="#496d45" stroke-width="1.5"/>
+  <path d="M808 32V96" stroke="#80674d"/>
+</svg>
